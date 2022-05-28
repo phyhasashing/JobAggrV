@@ -18,10 +18,10 @@
 - FromWhere
 - CrawledTime
 
-## Extra Data
+## Extra Data(optional)
 
 - Category
-
+- Extra (for half-formaldata)
 
 # Example Data
 
