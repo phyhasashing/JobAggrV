@@ -2,7 +2,7 @@
 # Aggr Site
 
 - https://www.python.org/jobs/
-
+- https://www.djangoproject.com/community/jobs/
 
 
 # Basic Data Need
