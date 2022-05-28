@@ -1,0 +1,10 @@
+[mysql]
+host = jobaggrv-mysql
+port = 3306
+name = jobaggrv
+user = root
+password = jobaggrv
+
+
+[crawler]
+concurrent_requests = 32
