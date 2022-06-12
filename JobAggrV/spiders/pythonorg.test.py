@@ -64,8 +64,7 @@ class xpath(object):
             with open('python.org.csv', 'a',newline='') as fp:
                 csv_writer = csv.writer(fp)
                 csv_writer.writerow([JobTitle, DetailUrl, Company, FromWhere, PostDate, Location, CrawledTime])
-                print(items)
-
+           
     def run(self):
         # 页的信息
         for pg in range(1,5):
@@ -80,4 +79,3 @@ class xpath(object):
 if __name__ == "__main__":
     spider = xpath()
     spider.run()
-print('完毕！')
